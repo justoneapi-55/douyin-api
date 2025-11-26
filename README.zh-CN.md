@@ -6,7 +6,7 @@
 
 # Just One API - Python SDK
 
-官方 Python SDK，用于访问 [Just One API](https://justoneapi.com?source=github&detail=justoneapi-55/douyin-api) —— 一个统一的数据服务平台，提供来自小红书、淘宝、抖音、快手、哔哩哔哩、微博等社交、电商平台的结构化数据。
+官方 Python SDK，用于访问 [Just One API](https://justoneapi.com/zh/?source=github&detail=justoneapi-55/douyin-api) —— 一个统一的数据服务平台，提供来自小红书、淘宝、抖音、快手、哔哩哔哩、微博等社交、电商平台的结构化数据。
 
 该 SDK 简化了 API 调用与签名流程，让开发者能够以最少的配置快速获取各平台数据。
 
